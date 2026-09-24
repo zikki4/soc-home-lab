@@ -25,7 +25,7 @@ SOC-аналитик (L1). Эта лаборатория — то, где я о�
 ## Разборы инцидентов
 
 - [SSH brute-force: обнаружение и анализ в SIEM](investigations/01-ssh-bruteforce.md)
-- Повышение привилегий через Linux capabilities *(в работе)*
+- [Повышение привилегий через Linux capabilities: цепочка атаки и детект](investigations/02-privilege-escalation-cap.md)
 
 ## Отработанные навыки
 

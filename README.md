@@ -21,6 +21,7 @@ SOC-аналитик (L1). Эта лаборатория — то, где я о�
 - **Атакующая машина:** Kali Linux
 - **Цель:** Ubuntu с установленным агентом Wazuh
 - **Сеть:** изолированная host-only, гипервизор VMware Workstation
+Подробнее об архитектуре и схеме сети → [lab-setup/architecture.md](lab-setup/architecture.md)
 
 ## Разборы инцидентов
 

@@ -28,6 +28,7 @@ SOC-аналитик (L1). Эта лаборатория — то, где я о�
 
 - [SSH brute-force: обнаружение и анализ в SIEM](investigations/01-ssh-bruteforce.md)
 - [Повышение привилегий через Linux capabilities: цепочка атаки и детект](investigations/02-privilege-escalation-cap.md)
+- [Detection Engineering: правило обнаружения reverse shell (C2 на порту 4444)](investigations/03-detection-engineering-c2-rule.md)
 
 ## Отработанные навыки
 
@@ -38,3 +39,4 @@ SOC-аналитик (L1). Эта лаборатория — то, где я о�
 - Расследование в SIEM: фильтрация потока событий, пивот по индикатору (DQL)
 - MITRE ATT&CK: разбор атак по тактикам и техникам
 - Анализ фишинга: заголовки писем, SPF/DKIM/DMARC
+- Detection engineering: написание и тестирование кастомных правил Wazuh
